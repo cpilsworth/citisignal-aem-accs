@@ -3,4 +3,5 @@ mountpoints:
     url: https://author-p185035-e1936691.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/citisignal-aem-accs/main"
     type: "markup"
     suffix: ".html"
-  
+folders:    
+  /products/: /products/default
